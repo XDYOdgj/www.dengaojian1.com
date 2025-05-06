@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.dengaojian1.com/sitemap.xml
